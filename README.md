@@ -1,2 +1,3 @@
 # SlowLifeGUI
-Conway's Game of Life, in GUI Form.  Deliberately non-performant.
+Conway's Game of Life, in GUI Form.  ~~Deliberately non-performant.~~ Now, non-slow!
+
